@@ -1,0 +1,62 @@
+body{
+     background: rgb(109, 82, 32);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 400px;
+    margin-top: 120px;
+    position: relative;
+    left: 230px;
+}
+.container{
+    display: flex;
+}
+.case2{
+    background: white;
+    width: 60%;
+    height: 490px;
+    margin: 75px ;
+}
+.case21{
+    padding: 20px;
+    margin-top:40px;
+    margin-left: 170px;
+}
+input{
+    height: 45px;
+    width: 260px;
+    margin: 7px;
+}
+#msg{
+    width:547px ;
+    height: 100px;
+}
+#btn{
+    position: relative;
+    left: 170px;
+    width: 200px;
+    background: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
